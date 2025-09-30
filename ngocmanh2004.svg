@@ -82,11 +82,14 @@
 				<div class="greeting">
           Hi Everybody!<br/>I'm Ngoc Manh Dev.
         </div>
-        <div class="skills">
+        <!-- <div class="skills">
           <div class="skills_icon">
-            
+            <div class="skills_icon">
+
+			</div>
+
           </div>
-        </div>
+        </div> -->
 			</div>
 		</div>
 	</foreignObject>
