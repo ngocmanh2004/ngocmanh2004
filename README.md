@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/ngocmanh2004.svg" width="1200" alt="ngocmanh2004-official" />
+  <img src="ngocmanh2004.svg" width="1200" alt="ngocmanh2004-official" />
 </a>
 
 <h2 align="center">👋 Hi there, I'm Mạnh</h2>
