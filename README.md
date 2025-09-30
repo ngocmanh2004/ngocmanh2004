@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi there, I'm Mạnh</h2>
 <p align="center">
-  🎓 Sinh viên năm 4 - Đại học Quy Nhơn | 💻 Frontend Developer | 🌱 Học hỏi & phát triển web app hiện đại
+  🎓 Final-year Student - Quy Nhon University | 💻 Frontend Developer
 </p>
 
 <h2 align="center">🛠 Technologies & Tools 🛠</h2>
