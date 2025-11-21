@@ -4,10 +4,10 @@
 
 <h2 align="center">👋 Hi there, I'm Mạnh</h2>
 <p align="center">
-  🎓 Final-year Student - Quy Nhon University | 💻 Frontend Developer
+  🎓 Final-year Student - Quy Nhon University | 💻 Frontend Web Developer (Angular / React)
 </p>
 
-<h2 align="center">🛠 Technologies & Tools 🛠</h2>
+<h2 align="center">🛠 Technologies & Tools (Frontend-focused)</h2>
 <p align="center">
   <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" height="28"/></span>
   <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" height="28"/></span>
@@ -16,6 +16,10 @@
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" height="28"/></span>
+</p>
+
+<h3 align="center">🔧 Basic Backend Knowledge</h3>
+<p align="center">
   <span><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" height="28"/></span>
 </p>
@@ -38,4 +42,3 @@
 <p align="center">
   "Code is like humor. When you have to explain it, it’s bad." 💻
 </p>
-
