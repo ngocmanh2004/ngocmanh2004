@@ -24,12 +24,6 @@
   <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" height="28"/></span>
 </p>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngocmanh2004&show_icons=true&theme=radical" alt="ngocmanh2004-github-stats" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocmanh2004&layout=compact&theme=radical" alt="ngocmanh2004-top-langs" width="400"/>
-</p>
-
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
   <a href="https://www.facebook.com/ngocmanh2004" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" height="40"/></a>
