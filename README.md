@@ -15,7 +15,6 @@
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" height="28"/></span>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" height="28"/></span>
-  <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff" height="28"/></span>
   <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" height="28"/></span>
